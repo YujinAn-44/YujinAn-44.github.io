@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "안유진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assests/image/dambidambi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "내키는 대로 살아가는 k-고딩"
   location         : "대한민국, 포항"
   email            : "fafafa0404@naver.com"
